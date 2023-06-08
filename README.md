@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Zawea
 - 👀 I’m interested in Video games, Anime other geek things...
 - 🌱 I’m currently learning C 
-- 📚 I´m currently studing Informatic Civil Engineering 
+- 📚 I´m currently studing Informatic Civil Engineering (2nd year)
 
 <!---
 Zawea/Zawea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
